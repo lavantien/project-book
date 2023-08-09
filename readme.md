@@ -4,7 +4,7 @@ Based on my [Modern Software Engineering Resources Collection](https://gist.gith
 Each section will have its corresponding `proof of work` and `resources`.
 
 0. Dev Environment
-1. Physics and Mathematics
+1. Physics and Mathematics and English
 2. Computer Architecture
 3. Data Structures and Algorithms
 4. Design Patterns
