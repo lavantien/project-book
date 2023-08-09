@@ -7,7 +7,7 @@
 3. [ ] 100 Essential Phrases for English Conversation.
 4. [ ] 100 Useful Phrases for English Conversation.
 5. [ ] 100 Inspirational Quotes in English for Pronunciation Practice.
-6. [x] The birth, life, and death of the universe.
+6. [x] (1h) The birth, life, and death of the universe.
 7. [ ] Pre-Algebra.
 8. [ ] Algebra I.
 9. [ ] Algebra II.
