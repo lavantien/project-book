@@ -14,5 +14,6 @@ Each section will have its corresponding `proof of work` and `resources`.
 8. Web Development
 9. Operations
 10. Mobile and Embedded Development
+11. Game Programming
 
 [My resume](https://github.com/lavantien/resume/releases/latest).
