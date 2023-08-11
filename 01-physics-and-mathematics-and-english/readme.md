@@ -8,19 +8,20 @@
 4. [ ] 100 Useful Phrases for English Conversation.
 5. [ ] 100 Inspirational Quotes in English for Pronunciation Practice.
 6. [x] (1h) The birth, life, and death of the universe.
-7. [ ] Pre-Algebra.
-8. [ ] Algebra I.
-9. [ ] Algebra II.
-10. [ ] Essence of linear algebra.
-11. [ ] Linear Algebra.
-12. [ ] Abstract Algebra.
-13. [ ] Trig Review for Calculus.
-14. [ ] Calculus I.
-15. [ ] Calculus II.
-16. [ ] Discrete Math I.
-17. [ ] Discrete Math II.
-18. [ ] Applied Statistics.
-19. [ ] Using Excel in Statistics.
+7. [x] The Mosaic Problem.
+8. [ ] Pre-Algebra.
+9. [ ] Algebra I.
+10. [ ] Algebra II.
+11. [ ] Essence of linear algebra.
+12. [ ] Linear Algebra.
+13. [ ] Abstract Algebra.
+14. [ ] Trig Review for Calculus.
+15. [ ] Calculus I.
+16. [ ] Calculus II.
+17. [ ] Discrete Math I.
+18. [ ] Discrete Math II.
+19. [ ] Applied Statistics.
+20. [ ] Using Excel in Statistics.
 
 ## Resources
 
