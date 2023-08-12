@@ -1,4 +1,4 @@
-# Game Development
+# Game and AI Development
 
 ## Proof of Work
 
