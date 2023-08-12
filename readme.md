@@ -1,4 +1,4 @@
-# My Projects
+# Project Book
 
 Based on my [Modern Software Engineering Resources Collection](https://gist.github.com/lavantien/dc730dad7d7e8157000ddae845eddfd7).  
 Each section will have its corresponding `proof of work` and `resources`.
