@@ -2,11 +2,13 @@
 
 ## Proof of Work
 
-- [x] {B1} {1h} The birth, life, and death of the universe.
-- [ ] {B2} {} The Mosaic Problem.
-- [ ] {B3} {}
+- [ ] {B1} {} English Practice
+- [x] {B2} {1h} The birth, life, and death of the universe.
+- [ ] {B3} {} The Mosaic Problem.
 - [ ] {B4} {}
 - [ ] {B5} {}
+- [ ] {B6} {}
+- [ ] {B7} {}
 - [ ] Pre-Algebra.
 - [ ] Algebra I.
 - [ ] Algebra II.
